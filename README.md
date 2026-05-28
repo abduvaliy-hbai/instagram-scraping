@@ -122,7 +122,7 @@ gallery-dl was the only one of the three that reliably handled both profile walk
 
 ## License
 
-Choose one (e.g. MIT) and add a `LICENSE` file.
+[MIT](LICENSE) — free for any use, modification, and redistribution. Just keep the copyright notice in copies.
 
 ## Ethics
 
