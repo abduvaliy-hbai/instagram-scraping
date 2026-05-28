@@ -127,3 +127,7 @@ Choose one (e.g. MIT) and add a `LICENSE` file.
 ## Ethics
 
 Only use this for accounts you own, accounts that have given you explicit permission, or research/archival with appropriate consent. Public visibility is not the same as a license to redistribute.
+
+## Contributing
+
+This is a personal project — pull requests and contributions are not being accepted. You're free to use, fork, and modify the code for your own purposes (subject to the license), but the upstream version will not take patches.
