@@ -1,0 +1,4 @@
+gallery-dl>=1.32
+# Required to decrypt Chrome's cookie database on Linux (GNOME keyring).
+# Firefox cookies don't need this; install only if you use --browser chrome.
+secretstorage>=3.0

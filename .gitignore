@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# gallery-dl download archive (per-user state, not source)
+archive.txt
+*.archive
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
